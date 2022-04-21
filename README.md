@@ -5,13 +5,13 @@
 
 ## Desafio:
 
-![](https://github.com/Ewertonalex/La-o-Do-While/blob/main/exedo.jpg)
+![](https://github.com/Ewertonalex/TED-JAVA-FOR-IF-ELSE/blob/main/for.jpg)
 
 ## Código - Resposta:
 
-https://github.com/Ewertonalex/La-o-Do-While/blob/main/teddowhile.java
+https://github.com/Ewertonalex/TED-JAVA-FOR-IF-ELSE/blob/main/exifelsehomensmulheres.java
 
-![](https://github.com/Ewertonalex/La-o-Do-While/blob/main/resdo.jpg)
+![](https://github.com/Ewertonalex/TED-JAVA-FOR-IF-ELSE/blob/main/refor.jpg)
 
 ---
 
