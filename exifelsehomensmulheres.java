@@ -36,7 +36,8 @@ public class exifelsehomensmulheres {
         System.out.println("\nA maior altura foi de " + maiorAltura + "m, e a menor foi de " + menorAltura + "m");
         System.out.println("A média de altura de pessoas do sexo Masculino é de " + mediaHomens + "m");
         System.out.println("O número de pessoas do sexo Feminino é de " + qtFeminino + " pessoas.");
-
+        
+        entrada.close();
 
     }
 }
